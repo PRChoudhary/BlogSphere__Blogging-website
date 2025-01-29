@@ -1,4 +1,4 @@
-# Blog Mingle
+# BlogSphere-Blogging website
 
 A sleek and user-friendly blogging platform that provides engaging content for users to explore, interact with, and enjoy.
 
