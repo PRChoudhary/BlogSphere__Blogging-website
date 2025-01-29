@@ -71,10 +71,3 @@ A sleek and user-friendly blogging platform that provides engaging content for u
 
 ---
 
-## Live Link
-
-Check out the live version of **Blog Mingle** here: [https://blog-mingle.onrender.com](https://blog-mingle.onrender.com)
-
----
-
-Feel free to contribute or provide feedback. Enjoy using **Blog Mingle**!
